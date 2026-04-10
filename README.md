@@ -135,7 +135,6 @@ It includes a **Student Record Management System** built using core Python conce
 1. Reverse a number
 2. Count vowels in string
 3. Fibonacci series
-4. Armstrong number check
 
 
 
