@@ -1,0 +1,17 @@
+DAY 1
+Learned model saving using joblib.
+
+DAY 2
+Learned Streamlit basics and ML deployment.
+
+DAY 3
+Built interactive Streamlit dashboard.
+
+DAY 4
+Created Flask API for ML predictions.
+
+DAY 5
+Performed integration and testing.
+
+DAY 6
+Prepared project documentation and finalized deployment project.

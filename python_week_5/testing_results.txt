@@ -1,0 +1,29 @@
+WEEK 5 - DAY 5 TESTING RESULTS
+
+Test Case 1
+Input: 2 years experience
+Output: ₹40,000
+
+Test Case 2
+Input: 5 years experience
+Output: ₹70,000
+
+Test Case 3
+Input: 8 years experience
+Output: ₹100,000
+
+Test Case 4
+Input: 10 years experience
+Output: ₹120,000
+
+Test Case 5
+Input: 15 years experience
+Output: ₹170,000
+
+Application Components Tested:
+- Streamlit Dashboard
+- Flask API
+- ML Model Integration
+
+Status:
+All tests passed successfully.
