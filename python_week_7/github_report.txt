@@ -1,0 +1,26 @@
+GITHUB FINALIZATION REPORT
+
+Repository Name:
+python_week_1
+
+Project:
+House Price Prediction Using Machine Learning
+
+Contents Uploaded:
+
+✓ Dataset
+
+✓ Jupyter Notebooks
+
+✓ Trained Models
+
+✓ Streamlit Application
+
+✓ Reports
+
+✓ Documentation
+
+✓ Screenshots
+
+Repository Status:
+Ready For Submission

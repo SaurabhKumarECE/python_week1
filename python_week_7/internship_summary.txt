@@ -1,0 +1,36 @@
+INTERNSHIP SUMMARY
+
+Project Title:
+House Price Prediction Using Machine Learning
+
+Duration:
+Weeks 1 to 7
+
+Technologies Used:
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Streamlit
+- Joblib
+- GitHub
+
+Major Tasks Completed:
+
+✓ Data Analysis
+
+✓ Machine Learning Model Development
+
+✓ Model Optimization
+
+✓ Application Development
+
+✓ Testing
+
+✓ Deployment
+
+✓ Documentation
+
+Final Outcome:
+
+Successfully developed a working Machine Learning application capable of predicting house prices.

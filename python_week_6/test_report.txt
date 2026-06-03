@@ -1,0 +1,21 @@
+HOUSE PRICE PREDICTION SYSTEM
+
+TEST REPORT
+
+Test Case 1
+Status: Passed
+
+Test Case 2
+Status: Passed
+
+Test Case 3
+Status: Passed
+
+Multiple Input Testing
+Status: Passed
+
+Application Stability
+Status: Passed
+
+Overall Result:
+System Working Successfully

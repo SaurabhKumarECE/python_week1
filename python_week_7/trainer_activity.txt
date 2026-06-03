@@ -1,0 +1,20 @@
+TRAINER ACTIVITY RECORD
+
+Project:
+House Price Prediction Using Machine Learning
+
+Activities Conducted:
+
+1. Problem Discussion
+2. Dataset Preparation
+3. Model Training
+4. Model Evaluation
+5. Model Optimization
+6. Streamlit Application Development
+7. Testing and Validation
+8. Deployment
+9. Documentation
+
+Outcome:
+
+Project Successfully Completed

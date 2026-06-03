@@ -1,0 +1,19 @@
+HOUSE PRICE PREDICTION SYSTEM
+
+DEPLOYMENT REPORT
+
+Deployment Type:
+Local Streamlit Deployment
+
+Application:
+House Price Prediction System
+
+Status:
+Successfully Deployed
+
+Files Used:
+- best_house_price_model.pkl
+- house_price_app.py
+
+Result:
+Application Running Successfully

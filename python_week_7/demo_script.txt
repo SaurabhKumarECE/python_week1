@@ -1,0 +1,101 @@
+HOUSE PRICE PREDICTION PROJECT DEMO
+
+INTRODUCTION
+
+Hello,
+
+My project is House Price Prediction Using Machine Learning.
+
+The objective of this project is to predict house prices based on property features.
+
+--------------------------------------------------
+
+PROBLEM STATEMENT
+
+Users enter:
+
+- Area
+- Bedrooms
+- Bathrooms
+- Floors
+- Parking Spaces
+
+The system predicts the estimated house price.
+
+--------------------------------------------------
+
+DATASET
+
+The dataset contains:
+
+- Area
+- Bedrooms
+- Bathrooms
+- Floors
+- Parking
+
+Target:
+
+- House Price
+
+--------------------------------------------------
+
+MODEL BUILDING
+
+Models Used:
+
+1. Linear Regression
+2. Decision Tree Regressor
+3. Random Forest Regressor
+
+--------------------------------------------------
+
+OPTIMIZATION
+
+Compared model performance using R² Score.
+
+Selected:
+
+Random Forest Regressor
+
+--------------------------------------------------
+
+APPLICATION DEMO
+
+Open Streamlit Application
+
+Enter:
+
+Area = 2500
+
+Bedrooms = 5
+
+Bathrooms = 4
+
+Floors = 3
+
+Parking = 3
+
+Click Predict Price
+
+System returns estimated house price.
+
+--------------------------------------------------
+
+TESTING
+
+Performed:
+
+- Model Testing
+- Input Validation
+- Application Testing
+
+All tests passed successfully.
+
+--------------------------------------------------
+
+CONCLUSION
+
+Successfully developed and deployed a House Price Prediction System using Machine Learning and Streamlit.
+
+Thank You.

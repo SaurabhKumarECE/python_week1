@@ -1,0 +1,24 @@
+python_week_1/
+
+├── python_week_3/
+├── python_week_4/
+├── python_week_5/
+├── python_week_6/
+├── python_week_7/
+
+python_week_6/
+
+├── house_price_dataset.csv
+├── house_price_model.pkl
+├── best_house_price_model.pkl
+├── house_price_app.py
+├── requirements.txt
+├── README.md
+├── screenshots/
+
+python_week_7/
+
+├── project_report.md
+├── presentation_content.md
+├── github_report.txt
+├── repository_structure.txt
